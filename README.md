@@ -37,13 +37,16 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/Shreyansh9878/Stock-Price-Prediction-and-Forecasting.git
 2. **Navigate to the project directory:**
+   ```bash
     cd {path}\Stock-Price-Prediction-and-Forecasting
 3. **Install the required packages:**
     Make sure pyhton is installed, then run
+   ```bash
     pip install -r requirements.txt
 4. Open the Jupyter Notebook and run it to see all analysis used to build the project
 6. **Website**
     You can use website by following command
+   ```bash
     streamlit run {path}\main.py
 
 ## Data Source
